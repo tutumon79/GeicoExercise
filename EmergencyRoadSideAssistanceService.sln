@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmergencyRoadSideAssistanceService", "EmergencyRoadSideAssistanceService\EmergencyRoadSideAssistanceService.csproj", "{F2CFF8C6-EB8A-4EBD-B898-62EDE2D09390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CFF8C6-EB8A-4EBD-B898-62EDE2D09390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CFF8C6-EB8A-4EBD-B898-62EDE2D09390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CFF8C6-EB8A-4EBD-B898-62EDE2D09390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CFF8C6-EB8A-4EBD-B898-62EDE2D09390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14650C13-13A6-4689-A17C-36552EED6BCC}
+	EndGlobalSection
+EndGlobal
