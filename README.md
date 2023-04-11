@@ -9,3 +9,4 @@ Assumptions
 5. Not done exception handling through out. This is done in couple of places only. Relevant logging can be done on real project.
 6. Service is publicly accessible to anyone. No kind of security mechanism is incorporated.
 7. optional<Assitant> is implemented separately, assuming, this is something required by the geico panel.
+As an alternative, cache like redis or similar tool can be used to store the data temporarily and deliver the functinality in the requirement completely. However, i choose to deliver it the current way with notes on it.
